@@ -1,0 +1,9 @@
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Proyecto Final\Game\bin\Debug\Game.exe.config
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Proyecto Final\Game\bin\Debug\Game.exe
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Proyecto Final\Game\bin\Debug\Game.pdb
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Proyecto Final\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Proyecto Final\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Proyecto Final\Game\obj\Debug\Game.exe
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Proyecto Final\Game\obj\Debug\Game.pdb
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Proyecto Final\Game\obj\Debug\Game.Form1.resources
+C:\Users\MENDOZA\Documents\María José\UCA\Ciclo01-20\Programación Orientada a objetos\Proyecto Final\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache

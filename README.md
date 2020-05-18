@@ -1,3 +1,3 @@
-# Los3Mosqueterons_Arkanoid
+# Los3Mosqueteros_Arkanoid
 Final Project
 
